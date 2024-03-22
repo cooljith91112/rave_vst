@@ -105,3 +105,7 @@ Once the build process finished you'll find the compiled binaries located in `ra
 - MacOS: `./build/rave-vst_artefacts/Release/Standalone/RAVE.app/Contents/MacOS/RAVE`  
 - UNIX: `./build/rave-vst_artefacts/Release/Standalone/RAVE`  
 - Windows: `./build/rave-vst_artefacts/Release/Standalone/RAVE.exe`  
+
+
+
+Just to trigger build
